@@ -1,0 +1,14 @@
+C:\Users\jonas\Desktop\C#\Guestbook\bin\Debug\net8.0\Guestbook.exe
+C:\Users\jonas\Desktop\C#\Guestbook\bin\Debug\net8.0\Guestbook.deps.json
+C:\Users\jonas\Desktop\C#\Guestbook\bin\Debug\net8.0\Guestbook.runtimeconfig.json
+C:\Users\jonas\Desktop\C#\Guestbook\bin\Debug\net8.0\Guestbook.dll
+C:\Users\jonas\Desktop\C#\Guestbook\bin\Debug\net8.0\Guestbook.pdb
+C:\Users\jonas\Desktop\C#\Guestbook\obj\Debug\net8.0\Guestbook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonas\Desktop\C#\Guestbook\obj\Debug\net8.0\Guestbook.AssemblyInfoInputs.cache
+C:\Users\jonas\Desktop\C#\Guestbook\obj\Debug\net8.0\Guestbook.AssemblyInfo.cs
+C:\Users\jonas\Desktop\C#\Guestbook\obj\Debug\net8.0\Guestbook.csproj.CoreCompileInputs.cache
+C:\Users\jonas\Desktop\C#\Guestbook\obj\Debug\net8.0\Guestbook.dll
+C:\Users\jonas\Desktop\C#\Guestbook\obj\Debug\net8.0\refint\Guestbook.dll
+C:\Users\jonas\Desktop\C#\Guestbook\obj\Debug\net8.0\Guestbook.pdb
+C:\Users\jonas\Desktop\C#\Guestbook\obj\Debug\net8.0\Guestbook.genruntimeconfig.cache
+C:\Users\jonas\Desktop\C#\Guestbook\obj\Debug\net8.0\ref\Guestbook.dll

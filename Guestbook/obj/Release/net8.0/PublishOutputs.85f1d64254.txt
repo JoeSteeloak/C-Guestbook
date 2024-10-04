@@ -1,0 +1,5 @@
+C:\Users\jonas\Desktop\C#\Guestbook\bin\Release\net8.0\publish\Guestbook.exe
+C:\Users\jonas\Desktop\C#\Guestbook\bin\Release\net8.0\publish\Guestbook.dll
+C:\Users\jonas\Desktop\C#\Guestbook\bin\Release\net8.0\publish\Guestbook.deps.json
+C:\Users\jonas\Desktop\C#\Guestbook\bin\Release\net8.0\publish\Guestbook.runtimeconfig.json
+C:\Users\jonas\Desktop\C#\Guestbook\bin\Release\net8.0\publish\Guestbook.pdb
