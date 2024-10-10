@@ -12,3 +12,4 @@ C:\Users\jonas\Desktop\C#\Guestbook\obj\Debug\net8.0\refint\Guestbook.dll
 C:\Users\jonas\Desktop\C#\Guestbook\obj\Debug\net8.0\Guestbook.pdb
 C:\Users\jonas\Desktop\C#\Guestbook\obj\Debug\net8.0\Guestbook.genruntimeconfig.cache
 C:\Users\jonas\Desktop\C#\Guestbook\obj\Debug\net8.0\ref\Guestbook.dll
+C:\Users\jonas\Desktop\C#\Guestbook\obj\Debug\net8.0\Guestbook.sourcelink.json
