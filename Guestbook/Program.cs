@@ -36,6 +36,8 @@ namespace guestbook
                 int inp = Console.ReadKey(true).KeyChar;
                 switch (inp) {
                     case '1': // lägg in nytt gästboksinlägg
+                        // Rensa konsolen
+                        Console.Clear();
                         Console.CursorVisible = true;
                         Console.Write("Enter your name: ");
                         string? name = Console.ReadLine();
@@ -44,6 +46,8 @@ namespace guestbook
                         if(!String.IsNullOrEmpty(name) && !String.IsNullOrEmpty(text)) guestbook.addEntry(name, text);
                         break;
                     case '2': // ta bort gästgboksinlägg
+                        // Rensa konsolen
+                        Console.Clear();
                         Console.CursorVisible = true;
                         Console.Write("Select index to delete: ");
                         string? index = Console.ReadLine();
@@ -58,6 +62,8 @@ namespace guestbook
                         break;
                     case 'X':
                     case 'x': // avsluta programmet
+                        // Rensa konsolen
+                        Console.Clear();
                         Environment.Exit(0);
                         break;
                 }
